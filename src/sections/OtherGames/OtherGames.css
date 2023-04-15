@@ -1,0 +1,49 @@
+.other-games{
+  margin-top: -50px;
+}
+  
+  .other-games .item {
+    position: relative;
+    border-bottom: 1px solid #27292a;
+    padding-bottom: 52px;
+    margin-bottom: 30px;
+  }
+  
+  .other-games .item img {
+    float: left;
+    margin-right: 15px;
+  }
+  
+  .other-games .item h4 {
+    display: inline-block;
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding-top: 15px;
+  }
+  
+  .other-games .item span {
+    color: #666;
+    font-size: 14px;
+    display: block;
+  }
+  
+  .other-games ul {
+    position: absolute;
+    right: 0;
+    top: 15px;
+  }
+  
+  .other-games ul li {
+    color: #fff;
+    font-size: 14px;
+    margin-bottom: 3px;
+  }
+  
+  .other-games ul li:first-child i {
+    color: yellow;
+  }
+  
+  .other-games ul li:last-child i {
+    color: #ec6090;
+  }
+  

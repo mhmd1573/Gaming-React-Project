@@ -1,0 +1,7 @@
+.card-wrapper{
+    background-color: var(--dark-color);
+    padding: var(--padding-primary);
+    border-radius: var(--border-radius-primary);
+    margin-top: var(--margin-primary);
+    text-align: center
+}
